@@ -4,7 +4,8 @@ A small, atmospheric 2D platformer set in a moonlit forest. Follow the starlight
 
 Built with **HTML, CSS, and vanilla JavaScript**. No framework, package installation, API keys, or build step is required to serve the game.
 
-![Moonlit Hollow title screen](docs/preview.png)
+<img width="1264" height="892" alt="preview" src="https://github.com/user-attachments/assets/d82bf4c8-7ddc-4391-8252-a0e491d59342" />
+
 
 ## Features
 
